@@ -16,5 +16,6 @@
     <?php wp_head();?>
     <title>Document</title>
 </head>
-<body>
+<body <?php body_class('skn-custom');?>>
+<?php wp_body_open();?>
   <header>This is header</header>
