@@ -36,6 +36,7 @@ wp-snapshots/*
 *.log
 *.sql
 *.sqlite
+node_modules
  
 # PhpStorm files.
 /.idea/

@@ -11,6 +11,6 @@
  */
 ?>
   <?php get_header();  ?>
-    <div class="content">Hello Jonida </div>
+    <div class="container row">Hello Jonida </div>
     <?php get_footer();?>
 
