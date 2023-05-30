@@ -7,9 +7,10 @@
  */
 
 /**
- * Tells WordPress to load the WordPress theme and output it.
- *
- * @var bool
+
  */
 ?>
+  <?php get_header();  ?>
+    <div class="content">Hello Jonida </div>
+    <?php get_footer();?>
 
