@@ -524,3 +524,34 @@ Stack trace:
 [01-Jun-2023 09:13:42 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-customize-widgets.php on line 905
 [01-Jun-2023 09:14:38 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-customize-widgets.php on line 905
 [01-Jun-2023 09:21:08 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\template-parts\header\nav.php on line 7
+[01-Jun-2023 10:44:32 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, array must have exactly two members in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Jonida...')
+#6 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-hook.php on line 308
+[01-Jun-2023 10:46:32 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, array must have exactly two members in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Jonida...')
+#6 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-hook.php on line 308
+[01-Jun-2023 10:47:18 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, array must have exactly two members in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(601): do_action('after_setup_the...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Jonida...')
+#6 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-admin\nav-menus.php(13): require_once('C:\\Users\\Jonida...')
+#7 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-hook.php on line 308

@@ -15,6 +15,7 @@
 
     protected function __construct() {
         Assets::get_instance();
+        Menu::get_instance();
         // load class
         $this->setup_hooks();
     }

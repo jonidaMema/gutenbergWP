@@ -18,3 +18,12 @@
     </div>
   </div>
 </nav>
+
+<?php 
+wp_nav_menu( array(
+	'menu'           => 'Header Menu', // Do not fall back to first non-empty menu.
+	'theme_location' => 'skn-header-menu',
+	'fallback_cb'    => false // Do not fall back to wp_page_menu()
+) );
+
+?>
