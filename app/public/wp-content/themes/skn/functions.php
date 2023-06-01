@@ -7,12 +7,23 @@
  * Proper way to enqueue scripts and styles
  */
 
-function wpdocs_skn_scripts() {
+//  require_once SKN_DIR_PATH . '/inc/helpers/autoloader.php';
 
-    //Enqueue Style
-	wp_enqueue_style( 'style-name', get_stylesheet_uri() );
-    wp_enqueue_style( 'bootstrap-css', get_template_directory_uri() . '/assets/library/css/bootstrap.min.css' );
-	wp_enqueue_script( 'script-name', get_template_directory_uri() . '/assets/library', array(), '1.0.0', true );
-    wp_enqueue_script( 'bootstrap-js', get_template_directory_uri() . '/assets/library/js/bootstrap.min.js', ['jquery'], false, true );
+ if (! defined('SKN_DIR_PATH')) {
+    define('SKN_DIR_PATH', untrailingslashit(get_template_directory()));
+ }
+
+ if(! defined('SKN_DIR_URI')) {
+    define('SKN_DIR_URI', untrailingslashit(get_template_directory_uri()));
+ }
+ require_once SKN_DIR_PATH . '/inc/helpers/autoloader.php';
+
+
+
+ function skn_get_theme_instance() {
+	\SKN_THEME\Inc\SKN_THEME::get_instance();
 }
-add_action( 'wp_enqueue_scripts', 'wpdocs_skn_scripts' );
+
+
+ skn_get_theme_instance();
+

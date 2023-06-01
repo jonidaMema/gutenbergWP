@@ -1,0 +1,526 @@
+[31-May-2023 14:38:13 UTC] PHP Parse error:  syntax error, unexpected identifier "print_r", expecting "," or ";" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 14
+[31-May-2023 14:38:14 UTC] PHP Parse error:  syntax error, unexpected identifier "print_r", expecting "," or ";" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 14
+[31-May-2023 14:38:30 UTC] PHP Parse error:  syntax error, unexpected identifier "print_r", expecting "," or ";" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 14
+[31-May-2023 14:38:30 UTC] PHP Parse error:  syntax error, unexpected identifier "print_r", expecting "," or ";" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 14
+[31-May-2023 14:38:31 UTC] PHP Parse error:  syntax error, unexpected identifier "print_r", expecting "," or ";" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 14
+[31-May-2023 14:38:31 UTC] PHP Parse error:  syntax error, unexpected identifier "print_r", expecting "," or ";" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 14
+[31-May-2023 14:38:39 UTC] PHP Parse error:  syntax error, unexpected identifier "print_r", expecting "," or ";" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 14
+[31-May-2023 14:38:39 UTC] PHP Parse error:  syntax error, unexpected identifier "print_r", expecting "," or ";" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 14
+[31-May-2023 14:39:40 UTC] PHP Parse error:  syntax error, unexpected identifier "print_r", expecting "," or ";" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 14
+[31-May-2023 14:39:40 UTC] PHP Parse error:  syntax error, unexpected identifier "print_r", expecting "," or ";" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 14
+[31-May-2023 14:39:48 UTC] PHP Parse error:  syntax error, unexpected identifier "print_r", expecting "," or ";" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 10
+[31-May-2023 14:39:48 UTC] PHP Parse error:  syntax error, unexpected identifier "print_r", expecting "," or ";" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 10
+[31-May-2023 14:40:22 UTC] PHP Parse error:  syntax error, unexpected identifier "print_r", expecting "," or ";" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 16
+[31-May-2023 14:40:22 UTC] PHP Parse error:  syntax error, unexpected identifier "print_r", expecting "," or ";" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 16
+[31-May-2023 14:41:18 UTC] PHP Parse error:  syntax error, unexpected identifier "print_r", expecting "," or ";" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 16
+[31-May-2023 14:41:18 UTC] PHP Parse error:  syntax error, unexpected identifier "print_r", expecting "," or ";" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 16
+[31-May-2023 14:58:24 UTC] PHP Fatal error:  Uncaught Error: Class "SKN_THEME\Inc\SKN_THEME" not found in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:19
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(22): skn_get_theme_instance()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#6 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 19
+[31-May-2023 14:58:25 UTC] PHP Fatal error:  Uncaught Error: Class "SKN_THEME\Inc\SKN_THEME" not found in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:19
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(22): skn_get_theme_instance()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#6 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 19
+[31-May-2023 15:11:26 UTC] PHP Fatal error:  Uncaught TypeError: spl_autoload_register(): Argument #1 ($callback) must be a valid callback or null, function "\SKN_THEME\Inc\Helpers\autoloader" not found or invalid function name in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\helpers\autoloader.php:87
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\helpers\autoloader.php(87): spl_autoload_register('\\SKN_THEME\\Inc\\...')
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(16): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#6 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#7 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\helpers\autoloader.php on line 87
+[31-May-2023 15:11:26 UTC] PHP Fatal error:  Uncaught TypeError: spl_autoload_register(): Argument #1 ($callback) must be a valid callback or null, function "\SKN_THEME\Inc\Helpers\autoloader" not found or invalid function name in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\helpers\autoloader.php:87
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\helpers\autoloader.php(87): spl_autoload_register('\\SKN_THEME\\Inc\\...')
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(16): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#6 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#7 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\helpers\autoloader.php on line 87
+[31-May-2023 15:11:58 UTC] PHP Fatal error:  Uncaught TypeError: spl_autoload_register(): Argument #1 ($callback) must be a valid callback or null, function "\SKN_THEME\inc\helpers\autoloader" not found or invalid function name in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\helpers\autoloader.php:87
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\helpers\autoloader.php(87): spl_autoload_register('\\SKN_THEME\\inc\\...')
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(16): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#6 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#7 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\helpers\autoloader.php on line 87
+[31-May-2023 15:11:59 UTC] PHP Fatal error:  Uncaught TypeError: spl_autoload_register(): Argument #1 ($callback) must be a valid callback or null, function "\SKN_THEME\inc\helpers\autoloader" not found or invalid function name in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\helpers\autoloader.php:87
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\helpers\autoloader.php(87): spl_autoload_register('\\SKN_THEME\\inc\\...')
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(16): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#6 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#7 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\helpers\autoloader.php on line 87
+[31-May-2023 15:12:31 UTC] PHP Fatal error:  Uncaught TypeError: spl_autoload_register(): Argument #1 ($callback) must be a valid callback or null, function "\SKN_THEME\Inc\Helpers\autoloader" not found or invalid function name in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\helpers\autoloader.php:87
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\helpers\autoloader.php(87): spl_autoload_register('\\SKN_THEME\\Inc\\...')
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(16): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#6 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#7 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\helpers\autoloader.php on line 87
+[31-May-2023 15:12:32 UTC] PHP Fatal error:  Uncaught TypeError: spl_autoload_register(): Argument #1 ($callback) must be a valid callback or null, function "\SKN_THEME\Inc\Helpers\autoloader" not found or invalid function name in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\helpers\autoloader.php:87
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\helpers\autoloader.php(87): spl_autoload_register('\\SKN_THEME\\Inc\\...')
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(16): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#6 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#7 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\helpers\autoloader.php on line 87
+[31-May-2023 15:12:33 UTC] PHP Fatal error:  Uncaught TypeError: spl_autoload_register(): Argument #1 ($callback) must be a valid callback or null, function "\SKN_THEME\Inc\Helpers\autoloader" not found or invalid function name in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\helpers\autoloader.php:87
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\helpers\autoloader.php(87): spl_autoload_register('\\SKN_THEME\\Inc\\...')
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(16): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#6 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#7 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\helpers\autoloader.php on line 87
+[31-May-2023 15:12:34 UTC] PHP Fatal error:  Uncaught TypeError: spl_autoload_register(): Argument #1 ($callback) must be a valid callback or null, function "\SKN_THEME\Inc\Helpers\autoloader" not found or invalid function name in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\helpers\autoloader.php:87
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\helpers\autoloader.php(87): spl_autoload_register('\\SKN_THEME\\Inc\\...')
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(16): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#6 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#7 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\helpers\autoloader.php on line 87
+[31-May-2023 15:13:15 UTC] PHP Fatal error:  Trait "SKN_THEME\Inc\Traits\Singleton" not found in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\classes\class-skn-theme.php on line 12
+[31-May-2023 15:13:15 UTC] PHP Fatal error:  Trait "SKN_THEME\Inc\Traits\Singleton" not found in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\classes\class-skn-theme.php on line 12
+[31-May-2023 15:14:13 UTC] PHP Fatal error:  Trait "SKN_THEME\Inc\Traits\Singleton" not found in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\classes\class-skn-theme.php on line 12
+[31-May-2023 15:14:13 UTC] PHP Fatal error:  Trait "SKN_THEME\Inc\Traits\Singleton" not found in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\classes\class-skn-theme.php on line 12
+[31-May-2023 15:17:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SKN_THEME\Inc\SKN_THEME::get_instance() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:19
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(22): skn_get_theme_instance()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#6 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 19
+[31-May-2023 15:17:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SKN_THEME\Inc\SKN_THEME::get_instance() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:19
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(22): skn_get_theme_instance()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#6 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 19
+[31-May-2023 15:19:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SKN_THEME\Inc\SKN_THEME::get_instance() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:18
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(24): skn_get_theme_instance()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#6 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 18
+[31-May-2023 15:19:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SKN_THEME\Inc\SKN_THEME::get_instance() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:18
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(24): skn_get_theme_instance()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#6 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 18
+[31-May-2023 15:21:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SKN_THEME\Inc\SKN_THEME::get_instance() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:19
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(23): skn_get_theme_instance()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#6 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 19
+[31-May-2023 15:21:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SKN_THEME\Inc\SKN_THEME::get_instance() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:19
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(23): skn_get_theme_instance()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#6 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 19
+[31-May-2023 15:22:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SKN_DIR_PATH" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:10
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#5 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 10
+[31-May-2023 15:22:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SKN_DIR_PATH" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:10
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#5 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 10
+[31-May-2023 15:23:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SKN_THEME\Inc\SKN_THEME::get_instance() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:20
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(24): skn_get_theme_instance()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#6 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 20
+[31-May-2023 15:23:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SKN_THEME\Inc\SKN_THEME::get_instance() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:20
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(24): skn_get_theme_instance()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#6 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 20
+[31-May-2023 15:29:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SKN_THEME\Inc\SKN_THEME::get_instance() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:21
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(25): skn_get_theme_instance()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#6 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 21
+[31-May-2023 15:29:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SKN_THEME\Inc\SKN_THEME::get_instance() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:21
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(25): skn_get_theme_instance()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#6 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 21
+[31-May-2023 15:30:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SKN_THEME\Inc\SKN_THEME::get_instance() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:21
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(25): skn_get_theme_instance()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#6 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 21
+[31-May-2023 15:30:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SKN_THEME\Inc\SKN_THEME::get_instance() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:21
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(25): skn_get_theme_instance()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#6 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 21
+[31-May-2023 15:30:51 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SKN_DIR_PATH" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:17
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#5 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 17
+[31-May-2023 15:30:51 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SKN_DIR_PATH" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:17
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#5 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 17
+[31-May-2023 15:32:34 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 19
+[31-May-2023 15:32:34 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 19
+[31-May-2023 15:33:52 UTC] PHP Parse error:  syntax error, unexpected token "function" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 20
+[31-May-2023 15:33:53 UTC] PHP Parse error:  syntax error, unexpected token "function" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 20
+[31-May-2023 15:34:18 UTC] PHP Parse error:  syntax error, unexpected token "function" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 20
+[31-May-2023 15:34:19 UTC] PHP Parse error:  syntax error, unexpected token "function" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 20
+[31-May-2023 15:34:21 UTC] PHP Parse error:  syntax error, unexpected token "function" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 20
+[31-May-2023 15:34:21 UTC] PHP Parse error:  syntax error, unexpected token "function" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 20
+[31-May-2023 15:34:31 UTC] PHP Parse error:  syntax error, unexpected token "function" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 21
+[31-May-2023 15:34:31 UTC] PHP Parse error:  syntax error, unexpected token "function" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 21
+[31-May-2023 15:34:38 UTC] PHP Parse error:  syntax error, unexpected identifier "skn_get_theme_instance" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 27
+[31-May-2023 15:34:39 UTC] PHP Parse error:  syntax error, unexpected identifier "skn_get_theme_instance" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 27
+[31-May-2023 16:02:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_uri() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:17
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#5 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 17
+[31-May-2023 16:02:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_uri() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:17
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#5 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 17
+[31-May-2023 16:02:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_director_uri() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:17
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#5 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 17
+[31-May-2023 16:02:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_director_uri() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:17
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#5 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 17
+[31-May-2023 16:02:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_director_uri() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:17
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#5 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 17
+[31-May-2023 16:02:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_director_uri() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:17
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#5 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 17
+[31-May-2023 16:03:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function http://newskn.local/wp-content/themes/skn() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:17
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#5 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 17
+[31-May-2023 16:03:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function http://newskn.local/wp-content/themes/skn() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:17
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#5 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 17
+[31-May-2023 16:03:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function http://newskn.local/wp-content/themes/skn() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:17
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#5 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 17
+[31-May-2023 16:03:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function http://newskn.local/wp-content/themes/skn() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:17
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#5 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 17
+[31-May-2023 16:03:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function http://newskn.local/wp-content/themes/skn() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:17
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#5 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 17
+[31-May-2023 16:03:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function http://newskn.local/wp-content/themes/skn() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:17
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#5 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 17
+[31-May-2023 16:03:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function http://newskn.local/wp-content/themes/skn() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:17
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#5 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 17
+[31-May-2023 16:03:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function http://newskn.local/wp-content/themes/skn() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:17
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#5 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 17
+[31-May-2023 16:03:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function http://newskn.local/wp-content/themes/skn() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:17
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#5 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 17
+[31-May-2023 16:03:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function http://newskn.local/wp-content/themes/skn() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:17
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#5 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 17
+[31-May-2023 16:03:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function http://newskn.local/wp-content/themes/skn() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:17
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#5 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 17
+[31-May-2023 16:03:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function http://newskn.local/wp-content/themes/skn() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php:17
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#5 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php on line 17
+[31-May-2023 16:04:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SKN_THEME\Inc\SKN_THEME::set_hooks() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\classes\class-skn-theme.php:18
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\traits\trait-singleton.php(18): SKN_THEME\Inc\SKN_THEME->__construct()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(28): SKN_THEME\Inc\SKN_THEME::get_instance()
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(32): skn_get_theme_instance()
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#6 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#7 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#8 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\classes\class-skn-theme.php on line 18
+[31-May-2023 16:04:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SKN_THEME\Inc\SKN_THEME::set_hooks() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\classes\class-skn-theme.php:18
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\traits\trait-singleton.php(18): SKN_THEME\Inc\SKN_THEME->__construct()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(28): SKN_THEME\Inc\SKN_THEME::get_instance()
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(32): skn_get_theme_instance()
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#6 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#7 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#8 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\classes\class-skn-theme.php on line 18
+[31-May-2023 16:04:36 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "enqueu_style" not found or invalid function name in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\script-loader.php(2194): do_action('wp_enqueue_scri...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-hook.php(308): wp_enqueue_scripts('')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\general-template.php(3049): do_action('wp_head')
+#7 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\header.php(16): wp_head()
+#8 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\template.php(783): require_once('C:\\Users\\Jonida...')
+#9 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\template.php(718): load_template('C:\\Users\\Jonida...', true, Array)
+#10 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#11 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\index.php(13): get_header()
+#12 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Jonida...')
+#13 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Jonida...')
+#14 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#15 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 16:04:39 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "enqueu_style" not found or invalid function name in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\script-loader.php(2194): do_action('wp_enqueue_scri...')
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-hook.php(308): wp_enqueue_scripts('')
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\general-template.php(3049): do_action('wp_head')
+#7 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\header.php(16): wp_head()
+#8 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\template.php(783): require_once('C:\\Users\\Jonida...')
+#9 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\template.php(718): load_template('C:\\Users\\Jonida...', true, Array)
+#10 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#11 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\index.php(13): get_header()
+#12 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Jonida...')
+#13 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Jonida...')
+#14 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#15 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-hook.php on line 308
+[31-May-2023 16:39:17 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[01-Jun-2023 09:13:13 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[01-Jun-2023 09:13:33 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[01-Jun-2023 09:13:42 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[01-Jun-2023 09:14:38 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[01-Jun-2023 09:21:08 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\template-parts\header\nav.php on line 7
