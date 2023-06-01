@@ -555,3 +555,70 @@ Stack trace:
 #6 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-admin\nav-menus.php(13): require_once('C:\\Users\\Jonida...')
 #7 {main}
   thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-hook.php on line 308
+[01-Jun-2023 11:36:52 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function SKN_THEME\Inc\Menu::get_menu_id(), 0 passed in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\classes\class-menu.php on line 14 and exactly 1 expected in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\classes\class-menu.php:29
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\classes\class-menu.php(14): SKN_THEME\Inc\Menu->get_menu_id()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\traits\trait-singleton.php(18): SKN_THEME\Inc\Menu->__construct()
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\classes\class-skn-theme.php(18): SKN_THEME\Inc\Menu::get_instance()
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\traits\trait-singleton.php(18): SKN_THEME\Inc\SKN_THEME->__construct()
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(24): SKN_THEME\Inc\SKN_THEME::get_instance()
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(28): skn_get_theme_instance()
+#6 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#7 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#8 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#9 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Jonida...')
+#10 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\classes\class-menu.php on line 29
+[01-Jun-2023 11:36:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[01-Jun-2023 11:36:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[01-Jun-2023 11:36:53 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function SKN_THEME\Inc\Menu::get_menu_id(), 0 passed in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\classes\class-menu.php on line 14 and exactly 1 expected in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\classes\class-menu.php:29
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\classes\class-menu.php(14): SKN_THEME\Inc\Menu->get_menu_id()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\traits\trait-singleton.php(18): SKN_THEME\Inc\Menu->__construct()
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\classes\class-skn-theme.php(18): SKN_THEME\Inc\Menu::get_instance()
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\traits\trait-singleton.php(18): SKN_THEME\Inc\SKN_THEME->__construct()
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(24): SKN_THEME\Inc\SKN_THEME::get_instance()
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(28): skn_get_theme_instance()
+#6 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#7 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#8 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#9 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#10 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#11 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\classes\class-menu.php on line 29
+[01-Jun-2023 11:36:54 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function SKN_THEME\Inc\Menu::get_menu_id(), 0 passed in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\classes\class-menu.php on line 14 and exactly 1 expected in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\classes\class-menu.php:29
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\classes\class-menu.php(14): SKN_THEME\Inc\Menu->get_menu_id()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\traits\trait-singleton.php(18): SKN_THEME\Inc\Menu->__construct()
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\classes\class-skn-theme.php(18): SKN_THEME\Inc\Menu::get_instance()
+#3 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\traits\trait-singleton.php(18): SKN_THEME\Inc\SKN_THEME->__construct()
+#4 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(24): SKN_THEME\Inc\SKN_THEME::get_instance()
+#5 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\functions.php(28): skn_get_theme_instance()
+#6 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-settings.php(591): include('C:\\Users\\Jonida...')
+#7 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-config.php(102): require_once('C:\\Users\\Jonida...')
+#8 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-load.php(50): require_once('C:\\Users\\Jonida...')
+#9 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Jonida...')
+#10 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#11 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\inc\classes\class-menu.php on line 29
+[01-Jun-2023 14:45:49 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[01-Jun-2023 14:45:51 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\front-page.php on line 6
+[01-Jun-2023 14:45:59 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\front-page.php on line 6
+[01-Jun-2023 14:46:02 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\front-page.php on line 6
+[01-Jun-2023 15:13:26 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[01-Jun-2023 15:14:29 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[01-Jun-2023 15:14:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_expert() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\index.php:23
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#3 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\index.php on line 23
+[01-Jun-2023 15:15:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_expert() in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\front-page.php:18
+Stack trace:
+#0 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Jonida...')
+#2 C:\Users\JonidaMema\Local Sites\newskn\app\public\index.php(17): require('C:\\Users\\Jonida...')
+#3 {main}
+  thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\front-page.php on line 18
+[01-Jun-2023 15:35:50 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-customize-widgets.php on line 905

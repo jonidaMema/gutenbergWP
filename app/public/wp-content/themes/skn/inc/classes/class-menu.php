@@ -24,4 +24,10 @@
 	    	'skn-footer-menu'  => esc_html__( 'Footer Menu', 'skn' ),
 		] );
     }
+
+    public function get_menu_id($location) {
+        $locations = get_nav_menu_locations();
+        $menu_id=$locations[$location];
+        return !empty($menu_id) ? $menu_id : '';
+    }
  }
