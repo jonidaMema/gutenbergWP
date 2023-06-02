@@ -14,31 +14,34 @@
    <div id="primary">
     <main id="main" class="site-main mt-5" rol="primary">
       <?php
-        if(have_posts()) {
+        if(have_posts()):
           ?>
           <div class="container">
           <?php 
 
-            if(is_home() && ! is_front_page()) {
+            if(is_home() && ! is_front_page()):
             ?>
               <header class="mb-5">
                   <h1 class="page-title screen-render-text">
                       <?php single_post_title(); ?>
                   </h1>
               </header>
-            <?php }?>
+            <?php endif; ?>
             <div class="row">
               <?php 
               while(have_posts()) : the_post(); ?>
               <div class="col-md-4">
-                <h3><?php the_title(); ?> </h3>
-                <div> <?php the_content(); ?> </div>
+                  <?php get_template_part('/template-parts/content');?>
                 </div>
               <?php endwhile;
               ?>
- 
         </div>
-       <?php } ?>
+       <?php else:
+            get_template_part('template-parts/content-none');
+
+      endif; 
+      get_template_part('template-parts/content-none');
+      ?>
     </main>
    </div>
     <?php get_footer();?>

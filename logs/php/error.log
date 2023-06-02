@@ -622,3 +622,7 @@ Stack trace:
 #3 {main}
   thrown in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\front-page.php on line 18
 [01-Jun-2023 15:35:50 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[01-Jun-2023 16:10:57 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "elseif" or "else" or "endif" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\index.php on line 29
+[01-Jun-2023 16:10:58 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "elseif" or "else" or "endif" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\index.php on line 29
+[02-Jun-2023 10:01:51 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\template-parts\content-none.php on line 21
+[02-Jun-2023 10:03:20 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\JonidaMema\Local Sites\newskn\app\public\wp-content\themes\skn\template-parts\content-none.php on line 29
